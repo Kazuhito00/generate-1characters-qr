@@ -1,5 +1,5 @@
 # generate-1characters-qr
-QRコード保持情報とは別に、文字(アルファベット・数字・記号)を1文字書き込んだQRコードを生成するプログラムです。<br>
+QRコード保持情報とは別に、文字(アルファベット・数字・記号)を描画したQRコードを生成するプログラムです。<br>
 管理タグ等にご使用ください。<br>
 <img src="https://user-images.githubusercontent.com/37477845/122433251-02fa3a80-cfd1-11eb-9c6c-a85354465338.png" width="30%"> <img src="https://user-images.githubusercontent.com/37477845/122433246-01c90d80-cfd1-11eb-9e83-cb416a690b66.png" width="30%"> 
 
